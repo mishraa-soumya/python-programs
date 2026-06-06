@@ -1,0 +1,15 @@
+Add two numbers
+Maximum of two numbers
+Factorial of a number
+Find simple interest
+Find compound interest
+Check Armstrong Number
+Find area of a circle
+Print all Prime numbers in an Interval
+Check whether a number is Prime or not
+N-th Fibonacci number
+Check if a given number is Fibonacci number?
+Nth multiple of a number in Fibonacci Series
+Print ASCII Value of a character
+Sum of squares of first n natural numbers
+Cube sum of first n natural numbers
