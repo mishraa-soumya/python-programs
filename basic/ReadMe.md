@@ -2,7 +2,7 @@ Add two numbers
 Maximum of two numbers
 Factorial of a number
 Find simple interest
-Find compound interest
+Find compound interest - Skip
 Check Armstrong Number
 Find area of a circle
 Print all Prime numbers in an Interval
