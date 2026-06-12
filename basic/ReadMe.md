@@ -1,12 +1,12 @@
-Add two numbers
-Maximum of two numbers
-Factorial of a number
-Find simple interest
+Add two numbers - DONE
+Maximum of two numbers - DONE
+Factorial of a number - DONE
+Find simple interest - DONE
 Find compound interest - Skip - SKIP
-Check Armstrong Number
+Check Armstrong Number - DONE
 Find area of a circle - SKIP
 Print all Prime numbers in an Interval - DONE
-Check whether a number is Prime or not
+Check whether a number is Prime or not - DONE
 N-th Fibonacci number
 Check if a given number is Fibonacci number?
 Nth multiple of a number in Fibonacci Series
