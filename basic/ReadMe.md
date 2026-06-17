@@ -10,6 +10,6 @@ Check whether a number is Prime or not - DONE
 N-th Fibonacci number - DONE
 Check if a given number is Fibonacci number ? - DONE
 Nth multiple of a number in Fibonacci Series - DONE
-Print ASCII Value of a character
+Print ASCII Value of a character - DONE
 Sum of squares of first n natural numbers
 Cube sum of first n natural numbers
