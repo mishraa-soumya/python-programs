@@ -1,6 +1,6 @@
 # List of Programs
 
-Sum of array \ - Done
+Sum of array \
 Largest element in an array \
 Array rotation\
 Reversal algorithm for array rotation\
