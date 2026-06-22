@@ -1,7 +1,7 @@
 # List of Programs
 
 Sum of array \ - Done
-Largest element in an array \
+Largest element in an array \ - Done
 Array rotation\
 Reversal algorithm for array rotation\
 Split the array and add the first part to the end\
