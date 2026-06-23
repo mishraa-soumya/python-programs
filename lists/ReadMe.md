@@ -2,7 +2,7 @@
 
 Sum of array \ - Done
 Largest element in an array \ - Done
-Array rotation\
+Array rotation \ - Done
 Reversal algorithm for array rotation\
 Split the array and add the first part to the end\
 Find reminder of array multiplication divided by n\
