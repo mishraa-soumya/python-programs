@@ -4,7 +4,7 @@ Sum of array \ - Done
 Largest element in an array \ - Done
 Array rotation \ - Done
 Reversal algorithm for array rotation\
-Split the array and add the first part to the end\
+Split the array and add the first part to the end\ - Done
 Find reminder of array multiplication divided by n\
 Check if given array is Monotonic\
 Interchange first and last elements in a list\
