@@ -5,7 +5,7 @@ Largest element in an array \ - Done
 Array rotation \ - Done
 Reversal algorithm for array rotation\
 Split the array and add the first part to the end\ - Done
-Find reminder of array multiplication divided by n\
+Find remainder of array multiplication divided by n \ - Done
 Check if given array is Monotonic\
 Interchange first and last elements in a list\
 Swap two elements in a list\
