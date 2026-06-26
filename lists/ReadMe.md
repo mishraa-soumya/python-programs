@@ -6,7 +6,7 @@ Array rotation \ - Done
 Reversal algorithm for array rotation\
 Split the array and add the first part to the end\ - Done
 Find remainder of array multiplication divided by n \ - Done
-Check if given array is Monotonic\
+Check if given array is Monotonic\ - Done
 Interchange first and last elements in a list\
 Swap two elements in a list\
 Ways to find length of list\
