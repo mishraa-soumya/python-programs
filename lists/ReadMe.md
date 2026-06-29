@@ -9,7 +9,7 @@ Find remainder of array multiplication divided by n \ - Done
 Check if given array is Monotonic\ - Done
 Interchange first and last elements in a list\ - Done
 Swap two elements in a list\ - Done
-Ways to find length of list\
+Ways to find length of list\ - Done
 Ways to check if element exists in list\
 Different ways to clear a list\
 Reversing a List\
