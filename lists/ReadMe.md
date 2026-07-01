@@ -1,5 +1,7 @@
 # List of Programs
 
+## https://www.geeksforgeeks.org/python/python-programming-examples/
+
 Sum of array \ - Done
 Largest element in an array \ - Done
 Array rotation \ - Done
@@ -10,7 +12,7 @@ Check if given array is Monotonic\ - Done
 Interchange first and last elements in a list\ - Done
 Swap two elements in a list\ - Done
 Ways to find length of list\ - Done
-Ways to check if element exists in list\
+Ways to check if element exists in list\ - Done
 Different ways to clear a list\
 Reversing a List\
 Find sum of elements in list\
