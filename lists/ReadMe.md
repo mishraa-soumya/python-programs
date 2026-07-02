@@ -13,7 +13,7 @@ Interchange first and last elements in a list\ - Done
 Swap two elements in a list\ - Done
 Ways to find length of list\ - Done
 Ways to check if element exists in list\ - Done
-Different ways to clear a list\
+Different ways to clear a list\ - Done
 Reversing a List\
 Find sum of elements in list\
 Multiply all numbers in the list\
