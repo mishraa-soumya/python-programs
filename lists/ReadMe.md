@@ -14,7 +14,7 @@ Swap two elements in a list\ - Done
 Ways to find length of list\ - Done
 Ways to check if element exists in list\ - Done
 Different ways to clear a list\ - Done
-Reversing a List\
+Reversing a List \ - Done
 Find sum of elements in list\
 Multiply all numbers in the list\
 Find smallest number in a list\
