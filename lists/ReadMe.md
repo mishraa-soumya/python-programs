@@ -1,6 +1,6 @@
 # List of Programs
 
-## https://www.geeksforgeeks.org/python/python-programming-examples/
+## <https://www.geeksforgeeks.org/python/python-programming-examples>
 
 Sum of array \ - Done
 Largest element in an array \ - Done
@@ -16,7 +16,7 @@ Ways to check if element exists in list\ - Done
 Different ways to clear a list\ - Done
 Reversing a List \ - Done
 Find smallest number in a list\ - Done
-Find largest number in a list\
+Find largest number in a list \ - Done
 Find second largest number in a list\
 Find N largest elements from a list\
 Even numbers in a list\
