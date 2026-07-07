@@ -17,7 +17,7 @@ Different ways to clear a list\ - Done
 Reversing a List \ - Done
 Find smallest number in a list\ - Done
 Find largest number in a list \ - Done
-Find second largest number in a list\
+Find second largest number in a list\ - Done
 Find N largest elements from a list\
 Even numbers in a list\
 Odd numbers in a List\
