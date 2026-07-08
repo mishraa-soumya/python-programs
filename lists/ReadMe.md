@@ -18,7 +18,7 @@ Reversing a List \ - Done
 Find smallest number in a list\ - Done
 Find largest number in a list \ - Done
 Find second largest number in a list\ - Done
-Find N largest elements from a list\
+Find N largest elements from a list\ - Done
 Even numbers in a list\
 Odd numbers in a List\
 Print all even numbers in a range\
