@@ -19,9 +19,7 @@ Find smallest number in a list\ - Done
 Find largest number in a list \ - Done
 Find second largest number in a list\ - Done
 Find N largest elements from a list\ - Done
-Even numbers in a list\
-Odd numbers in a List\
-Print all even numbers in a range\
+Print all even numbers in a range\ - Done
 Print all odd numbers in a range\
 Print positive numbers in a list\
 Print negative numbers in a list\
