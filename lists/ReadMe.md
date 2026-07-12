@@ -22,7 +22,7 @@ Find N largest elements from a list\ - Done
 Print all even numbers in a range\ - Done
 Print all odd numbers in a range\ - Done
 Print positive numbers in a list\ - Done
-Print negative numbers in a list\
+Print negative numbers in a list\ - Done
 Print all positive numbers in a range\
 Print all negative numbers in a range\
 Remove multiple elements from a list\
