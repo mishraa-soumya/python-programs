@@ -25,7 +25,7 @@ Print positive numbers in a list\ - Done
 Print negative numbers in a list\ - Done
 Remove multiple elements from a list\ - Done
 Remove empty List from List\ - Done
-Cloning or Copying a list\
+Cloning or Copying a list\ - Done
 Count occurrences of an element in a list\
 Remove empty tuples from a list\
 Print duplicates from a list of integers\
