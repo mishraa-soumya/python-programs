@@ -24,7 +24,7 @@ Print all odd numbers in a range\ - Done
 Print positive numbers in a list\ - Done
 Print negative numbers in a list\ - Done
 Remove multiple elements from a list\ - Done
-Remove empty List from List\
+Remove empty List from List\ - Done
 Cloning or Copying a list\
 Count occurrences of an element in a list\
 Remove empty tuples from a list\
