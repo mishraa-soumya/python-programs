@@ -27,7 +27,7 @@ Remove multiple elements from a list\ - Done
 Remove empty List from List\ - Done
 Cloning or Copying a list\ - Done
 Count occurrences of an element in a list\ - Done
-Remove empty tuples from a list\
+Remove empty tuples from a list\ - Done
 Print duplicates from a list of integers\
 Find Cumulative sum of a list\
 Sum of number digits in List\
