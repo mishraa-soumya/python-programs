@@ -28,7 +28,7 @@ Remove empty List from List\ - Done
 Cloning or Copying a list\ - Done
 Count occurrences of an element in a list\ - Done
 Remove empty tuples from a list\ - Done
-Print duplicates from a list of integers\
+Print duplicates from a list of integers\ - Done
 Find Cumulative sum of a list\
 Sum of number digits in List\
 Break a list into chunks of size N\
