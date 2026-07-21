@@ -30,6 +30,6 @@ Count occurrences of an element in a list\ - Done
 Remove empty tuples from a list\ - Done
 Print duplicates from a list of integers\ - Done
 Find Cumulative sum of a list\ - Done
-Sum of number digits in List\
+Sum of number digits in List\ - Done
 Break a list into chunks of size N\
 Sort the values of first list using second list \
