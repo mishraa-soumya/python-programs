@@ -17,7 +17,8 @@ def matrix_multiplication():
     multiplication_using_dot(mx1, mx2)
 
 def multiplication_using_dot(mx1, mx2):
-    result = mx1@mx2
+    # result = mx1@mx2
+    result = np.dot(mx1, mx2)
     print(f"Matrix Multiplication using 'numpy.dot' is {result}")
 
 matrix_multiplication()
