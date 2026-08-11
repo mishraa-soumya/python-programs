@@ -4,7 +4,7 @@ Add two Matrices \ - Done
 Multiply two matrices \ - Done
 Matrix Product \ - Done
 Adding and Subtracting Matrices \ - Done
-Transpose a matrix in Single line \
+Transpose a matrix in Single line \ - Done
 Matrix creation of n*n \
 Get Kth Column of Matrix \
 Vertical Concatenation in Matrix \
