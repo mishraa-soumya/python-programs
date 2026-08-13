@@ -5,7 +5,7 @@ Multiply two matrices \ - Done
 Matrix Product \ - Done
 Adding and Subtracting Matrices \ - Done
 Transpose a matrix in Single line \ - Done
-Matrix creation of n*n \
+Matrix creation of n*n \ - Done
 Get Kth Column of Matrix \
 Vertical Concatenation in Matrix \
 
