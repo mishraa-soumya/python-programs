@@ -11,6 +11,8 @@ def find_kth_column_matrix(matriqs, k):
     get_kth_element_using_lambda_function(matriqs, k)
     # Using For loop
     get_kth_column_elements_using_for_loop(matriqs, k)
+    # Using the zip
+    get_kth_column_using_zip(matriqs, k)
 
 # Using Numpy
 def get_kth_column_using_numpy(matriqs, k):
@@ -24,6 +26,10 @@ def get_kth_column_element_using_list_c(matriqs, k):
 
 # Using Lambda Function
 def get_kth_element_using_lambda_function(matriqs, k):
+    # *mat: Unpacks the matrix rows as separate arguments.
+    # zip(*mat): Transposes the matrix, converting rows into columns.
+    # [K]: Selects the Kth column from the transposed result.
+    # list(): Converts the resulting tuple of elements into a list.
     kth_column = list(map(lambda row: row[k], matriqs))
     print(f"The kth element: {kth_column}")
 
@@ -35,6 +41,11 @@ def get_kth_column_elements_using_for_loop(matriqs, k):
         kth_column.append(elem)
     else:
         print(f"The {k} column result using for loop: {kth_column}")
+
+# Using Zip to find the kth column of the matrix
+def get_kth_column_using_zip(mat, k):
+    kth_column = list(zip(*mat))[k]
+    print(f"The {k} column result using zip: {kth_column}")
 
 # Calling Main Program
 mat = [[4,5,6], [8,1,10], [7, 12, 5]]
