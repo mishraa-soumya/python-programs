@@ -2,7 +2,7 @@
 
 <https://www.geeksforgeeks.org/python/python-programming-examples/>
 
-Read file word by word
+Read file word by word - Done
 Read character by character from a file
 Count Characters, Words, Spaces and Lines in a File
 Count the Number of occurrences of a key-value pair in a text file
