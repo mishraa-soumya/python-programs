@@ -1,2 +1,2 @@
 This is a test file.
-This file has just some dummy text.
+This file has just some "dummy" text.
